@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "bs-platform/lib/es6/curry.js": "./bs-platform/lib/es6/curry.js"
+  }
+}
